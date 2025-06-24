@@ -4,8 +4,7 @@
 Many users of MessagePad 2000 and 2100s have a very small selection of vendors selling official AA battery trays.  The intent of this project is to bring a low-cost, 3D-printable version of the scarce part.
 
 ## Latest Release
-To access the latest release of this project, please visit [the official project page](https://web.archive.org/web/20150814160031/http://cc.davisr.me/2011/11/05/newton-aa-battery-tray/) *(archived from [the original](http://cc.davisr.me/2011/11/05/newton-aa-battery-tray/))*.
-
+To access the latest release of this project, please visit [the official project page](https://www.davisr.me/posts/2011/11/05/newton-aa-battery-tray/).
 ## Usage
 The 3D models in this package are in Autodesk Inventor 2011 and industry-standard STL file formats.
 
