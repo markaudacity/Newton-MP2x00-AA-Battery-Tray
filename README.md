@@ -13,7 +13,7 @@ These files can be printed with (mostly) any rapid prototype machine/3D printer.
 
 ## Tips for printing
 
-- Printing this part radially (instead of axially) can dramatically improve the part's quality. When printed axially, the outer dimensions are slightly off, and very jagged.
+- Printing this part vertically can dramatically improve the part's quality. When printed horizontally, the outer dimensions are slightly off, and very jagged.
 
 - Using a printer that can print with a 0.2mm resolution will greatly improve the fit.
 
